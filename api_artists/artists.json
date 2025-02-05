@@ -1,0 +1,184 @@
+{
+"artists" : [
+  {
+    "id": 1,
+    "name": "Taylor Swift",
+    "genre": ["Pop", "Country"],
+    "urlImg": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Taylor_Swift_Wonderstruck_Crop_%28cropped%29.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Drake",
+    "genre": ["Hip-Hop", "Rap"],
+    "urlImg": "https://upload.wikimedia.org/wikipedia/commons/9/94/Drake_July_2016.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Billie Eilish",
+    "genre": ["Alternative", "Pop"],
+    "urlimg": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Billie_Eilish_2019_by_Glenn_Francis_%28cropped%29.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Bad Bunny",
+    "genre": ["Reggaeton", "Latin Trap"],
+    "urlimg": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Bad_Bunny_2019.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Ariana Grande",
+    "genre": ["Pop", "R&B"],
+    "urlimg": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Ariana_Grande_2018_%28cropped%29.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Beyoncé",
+    "genre": ["R&B", "Pop"],
+    "urlimg": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Beyonc%C3%A9_-_On_The_Run_Tour_II%2C_Paris%2C_France_%2804%29_%28cropped%29.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Ed Sheeran",
+    "genre": ["Pop", "Folk"],
+    "urlimg": "https://upload.wikimedia.org/wikipedia/commons/4/45/Ed_Sheeran_2018_%28cropped%29.jpg"
+  },
+  {
+    "id": 8,
+    "name": "The Weeknd",
+    "genre": ["R&B", "Pop"],
+    "urlimg": "https://upload.wikimedia.org/wikipedia/commons/a/a5/The_Weeknd_%282018%29.png"
+  },
+  {
+    "id": 9,
+    "name": "Rihanna",
+    "genre": ["R&B", "Pop"],
+    "urlimg": "https://upload.wikimedia.org/wikipedia/commons/8/80/Rihanna_Fenty_2018.png"
+  },
+  {
+    "id": 10,
+    "name": "Justin Bieber",
+    "genre": ["Pop", "R&B"],
+    "urlimg": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Justin_Bieber_in_2015.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Bruno Mars",
+    "genre": ["Pop", "Funk", "R&B"],
+    "urlimg": "https://upload.wikimedia.org/wikipedia/commons/0/02/Bruno_Mars%2C_Las_Vegas_2010.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Post Malone",
+    "genre": ["Hip-Hop", "Rap", "Pop"],
+    "urlimg": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Post_Malone_2018_%28cropped%29.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Kanye West",
+    "genre": ["Hip-Hop", "Rap"],
+    "urlimg": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Kanye_West_at_the_2009_Tribeca_Film_Festival.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Dua Lipa",
+    "genre": ["Pop", "Dance"],
+    "urlimg": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Dua_Lipa_MTV_2019_%28cropped%29.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Shawn Mendes",
+    "genre": ["Pop", "Acoustic"],
+    "urlimg": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Shawn_Mendes_at_Radio_City_Music_Hall_%28cropped%29.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Lady Gaga",
+    "genre": ["Pop", "Dance", "Electronic"],
+    "urlimg": "https://upload.wikimedia.org/wikipedia/commons/7/77/Lady_Gaga_%282018%29_cropped.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Harry Styles",
+    "genre": ["Pop", "Rock"],
+    "urlimg": "https://upload.wikimedia.org/wikipedia/commons/2/23/Harry_Styles_November_2014.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Olivia Rodrigo",
+    "genre": ["Pop", "Indie"],
+    "urlimg": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Olivia_Rodrigo_in_2021.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Travis Scott",
+    "genre": ["Hip-Hop", "Rap"],
+    "urlimg": "https://upload.wikimedia.org/wikipedia/commons/4/44/Travis_Scott_%28cropped%29.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Eminem",
+    "genre": ["Hip-Hop", "Rap"],
+    "urlimg": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Eminem_2014.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Coldplay",
+    "genre": ["Rock", "Alternative"],
+    "urlimg": "https://upload.wikimedia.org/wikipedia/commons/d/db/Coldplay_-_Global_Citizen_Festival_Hamburg_15_%28cropped%29.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Maroon 5",
+    "genre": ["Pop", "Rock"],
+    "urlimg": "https://upload.wikimedia.org/wikipedia/commons/d/df/Adam_Levine_2011.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Imagine Dragons",
+    "genre": ["Rock", "Alternative"],
+    "urlimg": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Imagine_Dragons_at_Lollapalooza_2022_%28cropped%29.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Lil Nas X",
+    "genre": ["Hip-Hop", "Pop"],
+    "urlimg": "https://upload.wikimedia.org/wikipedia/commons/5/50/Lil_Nas_X_VMA_2019_%28cropped%29.jpg"
+  },
+  {
+    "id": 25,
+    "name": "Adele",
+    "genre": ["Pop", "Soul"],
+    "urlimg": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Adele_2016.jpg"
+  },
+  {
+    "id": 26,
+    "name": "Doja Cat",
+    "genre": ["Pop", "Hip-Hop"],
+    "urlimg": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Doja_Cat_%282021%29.jpg"
+  },
+  {
+    "id": 27,
+    "name": "SZA",
+    "genre": ["R&B", "Soul"],
+    "urlimg": "https://upload.wikimedia.org/wikipedia/commons/4/40/SZA_Ctrl_Tour_2017_%28cropped%29.jpg"
+  },
+  {
+    "id": 28,
+    "name": "Kendrick Lamar",
+    "genre": ["Hip-Hop", "Rap"],
+    "urlimg": "https://upload.wikimedia.org/wikipedia/commons/8/81/Kendrick_Lamar_at_Governors_Ball_2016_%28cropped%29.jpg"
+  },
+  {
+    "id": 29,
+    "name": "J Balvin",
+    "genre": ["Reggaeton", "Latin"],
+    "urlimg": "https://upload.wikimedia.org/wikipedia/commons/9/98/J_Balvin_2018.jpg"
+  },
+  {
+    "id": 30,
+    "name": "Karol G",
+    "genre": ["Reggaeton", "Latin"],
+    "urlimg": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Karol_G_2019.jpg"
+  }
+]
+}
